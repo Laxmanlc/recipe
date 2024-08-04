@@ -46,7 +46,7 @@ class _SettinggState extends State<Settingg> {
                 Positioned(
                   top:
                       5, // Adjust the values to position the "hello" text as desired
-                  right: 16,
+                  right: 17,
                   child: Text(
                     'NEPAL !',
                     style: TextStyle(
